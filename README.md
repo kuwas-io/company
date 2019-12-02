@@ -1,2 +1,0 @@
-# company
-company » cores » go
